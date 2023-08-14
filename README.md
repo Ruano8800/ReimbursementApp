@@ -3,15 +3,6 @@
 
  A .Net 6 Web API Project for the implementation of Reimbursement System
 
-
-
-
-
-## Demo
-
-https://reimbursementsystem.azurewebsites.net/swagger/index.html
-
-
 ## Tech Stack
 
 **Backend:** .Net 6 
